@@ -1,4 +1,4 @@
-  # imersao-alura-google
+  # CHATB BOT PARA INICIANTES EM PROGRAMAÇÃO
 Um chatbot feito na imersão de 5 dias de i.a da alura + google gemini.
 
 Chat Bot desenvolvido para ajudar iniciantes na programação Back-end e Front-end.
